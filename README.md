@@ -156,7 +156,10 @@ Os endpoints podem ser testados utilizando:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Rafael Vieira**
+<img src="https://github.com/vieira86.png" width="120px" style="border-radius: 50%;" />
+
+**Rafael Vieira**  
+Desenvolvedor da Baozi Store API
 
 ---
 
